@@ -1,0 +1,27 @@
+ [
+      {
+      "id" : "strawberry-pudding",
+      "name" : "Strawberry Pudding",
+      "img" :"strawberry-pudding.jpg",
+      "calories" : 430,
+      "rating" : 4.1,
+      "description" : "Sweet and tasty pudding with strawberries, blue berries, raspberries."
+    },
+    {
+      "id" : "chicken-pomegranate-salad",
+      "name" : "Chicken Pomegranate Salad",
+      "img" :"chicken-pomegranate-salad.jpg",
+      "calories" : 280,
+      "rating" : 5,
+      "description" : "sweet chicken"
+    },
+    {
+      "id" : "ham-goat-cheese-crossaint",
+      "name" : "Ham and goat cheese Crossaint",
+      "img" :"ham-goat-cheese-crossaint.jpg",
+      "calories" : 670,
+      "rating" : 3.9,
+      "description" : "goat cheese"
+    }
+
+  ]
